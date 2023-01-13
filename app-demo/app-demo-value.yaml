@@ -41,7 +41,7 @@ service:
   port: 80
 
 ingress:
-  enabled: true
+  enabled: false
   className: "local"
   annotations: {}
     # kubernetes.io/ingress.class: nginx

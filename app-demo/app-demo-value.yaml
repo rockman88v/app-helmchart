@@ -8,7 +8,7 @@ image:
   repository: rockman88v/demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.40"
+  tag: "v1.41"
 
 imagePullSecrets: []
 nameOverride: ""
